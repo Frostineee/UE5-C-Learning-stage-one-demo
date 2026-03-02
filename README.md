@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-In_Development-brightgreen)
 
 ## 📖 Project Overview
-**This Project** is a highly polished, code-driven Action RPG framework built from scratch using Unreal Engine 5 C++. Designed with action game principles in mind, it features a combat system, intelligent AI state machines, component-based architecture, and responsive gameplay mechanics (such as Perfect Dodge, Hit-Stop, and Motion Warped Executions). 
+**This Project Slash** is a highly polished, code-driven Action RPG framework built from scratch using Unreal Engine 5 C++. Designed with action game principles in mind, it features a combat system, intelligent AI state machines, component-based architecture, and responsive gameplay mechanics (such as Perfect Dodge, Hit-Stop, and Motion Warped Executions). 
 
 This project demonstrates strong Object-Oriented Programming (OOP) principles, clean C++ architecture, and deep integration with UE5's core systems including Enhanced Input, Animation Blueprints, NavMesh AI, and Chaos Physics.
 
