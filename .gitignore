@@ -16,11 +16,6 @@ Build/
 *.log
 *.crash
 
-Content/0_/Assets/
-Content/0_/Blueprints/Enemy/Insect/Animation/
-Content/0_/Blueprints/Enemy/Paladin/Animation/
-Content/0_/Blueprints/Enemy/Raptor/Animation/
-Content/0_/Character/Animation/
 Content/0_/LinNai/
 Content/AncientTreasures/
 Content/AnimalVarietyPack/
